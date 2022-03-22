@@ -71,11 +71,9 @@ namespace ConsoleApp1
 
                     Console.WriteLine("Update Proxy..");
                     DownloadFile(proxyListLink, proxyPath);
-                    Console.WriteLine("Proxy Count - " + File.ReadAllText(proxyPath).Length);
 
                     Console.WriteLine("Update Target..");
                     DownloadFile(targetListLink, targetPath);
-                    Console.WriteLine("Target Count - " + File.ReadAllText(targetPath).Length);
 
                     Console.WriteLine("Auto Update from 30 min.. Please check is run VPN!");
 
