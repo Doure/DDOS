@@ -1,0 +1,7 @@
+C:\Users\Vladyslav\Downloads\RusskijKorablIdiNaxuj-main\ProxyGrabber-main\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Vladyslav\Downloads\RusskijKorablIdiNaxuj-main\ProxyGrabber-main\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Vladyslav\Downloads\RusskijKorablIdiNaxuj-main\ProxyGrabber-main\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Vladyslav\Downloads\RusskijKorablIdiNaxuj-main\ProxyGrabber-main\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Vladyslav\Downloads\RusskijKorablIdiNaxuj-main\ProxyGrabber-main\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav\Downloads\RusskijKorablIdiNaxuj-main\ProxyGrabber-main\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Vladyslav\Downloads\RusskijKorablIdiNaxuj-main\ProxyGrabber-main\ConsoleApp1\obj\Release\ConsoleApp1.pdb
